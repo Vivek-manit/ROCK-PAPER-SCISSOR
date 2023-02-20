@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(17, 30, 79);
+}
+.heading{
+    border: solid 2px white;
+    border-radius: 10px;
+    width: 50%;
+    color: rgb(184, 206, 224);
+    font-weight: bold;
+    margin:auto;
+    font-size: 20px;
+    margin-top: 30px;
+    
+    display:flex;
+}
+.name{
+   font-family: 'Times New Roman', Times, serif;
+    line-height: 10px;
+    margin-left: 5px;
+    
+}
+.heading-col{
+    margin-top: 10px;
+    margin-bottom:10px;
+ font-weight: bold;  
+}
+.score{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    margin:auto;
+    line-height: 2rem;
+    border-radius:5px ;
+}
+
+.options{
+ 
+    margin-top:60px;
+    
+    
+}
+
+.center {
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+    
+  }
+  .second_line{
+    display: flex;
+    margin-top:100px;
+    font-size: 20px;
+    color: aliceblue;
+  }
+  img{
+    border: 7px solid #f3ecec;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50%;
+  }
+  
+  .btn{
+    margin-left: 90%;
+    padding-top:0px;
+    margin-top:130px;
+    
+  }
+  .main-game{
+    color:#f3ecec;
+  }
+  .resultRow{
+    margin-top: 20px;
+    color:aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+  }
+  .chosed{
+    visibility:hidden;
+  }
+ .result{
+  padding-right: 92px;
+ }
+  
